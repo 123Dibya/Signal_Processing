@@ -1,5 +1,11 @@
-# Signal_Processing
+# 📊 Signal_Processing
 
-1)Analog Signal
-2)Sampling
-3)Sine Wave
+Python code for visualizing and analyzing:
+- ✅ **Analog Signals**
+- ✅ **Sampling**
+- ✅ **Sine Waves**
+
+
+
+### 🚀 **How to Run**
+1. Clone the repository:
