@@ -4,6 +4,7 @@ Python code for visualizing and analyzing:
 - ✅ **Analog Signals**
 - ✅ **Sampling**
 - ✅ **Sine Waves**
+- ✅ **Noise and Filter**
 
 
 
